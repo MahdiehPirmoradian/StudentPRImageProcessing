@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gyBHnPTylD4zQ1UWqAPK2KDj6gFQAcH0CYgEYo3A+v4Pqar4E50evnFgu8IOR9O4gxnOG82nmm/L3HDAes4RA==",
+  "success": true,
+  "projectFilePath": "D:\\FRA-UAS\\SECC\\Projects\\New folder\\StudentPRImageProcessing\\ArgsConfig\\ArgsConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarla\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Tarla\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Tarla\\.nuget\\packages\\neocortexapi\\1.1.2\\neocortexapi.1.1.2.nupkg.sha512",
+    "C:\\Users\\Tarla\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

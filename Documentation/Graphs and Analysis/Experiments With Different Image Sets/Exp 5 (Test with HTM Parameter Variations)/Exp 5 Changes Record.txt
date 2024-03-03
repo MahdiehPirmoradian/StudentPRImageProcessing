@@ -1,0 +1,8 @@
+Changes:
+1. Image 'Result 1' is obtained after removing the color threshold and keeping the InputDimensions
+Parameter in htmconfig json file as 28x28.
+2. The result of image 'Result 1' is not satisfactory and the correlation is bad.
+3. Image 'Result 2' is obtained after activating the color threshold as 200,200,200 and keeping the InputDimensions
+Parameter in htmconfig json file as 100x100.
+4. The result of image 'Result 2' is not satisfactory and the correlation is bad as compared to the result obtained in Exp 4
+using the sae dataset with input dimentions 100x100 and colorthreshold as 10,10,10.
